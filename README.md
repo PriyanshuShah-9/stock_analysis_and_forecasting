@@ -1,7 +1,3 @@
-Here’s a more polished and professional version of your `README.md` for the **Stock Analysis and Forecasting** Streamlit web app:
-
----
-
 # 📈 Stock Analysis and Forecasting Web App
 
 A **Streamlit** web application for comprehensive stock market analysis and future price prediction. This tool allows users to visualize stock trends, analyze technical indicators, and forecast stock prices using advanced time series models.
