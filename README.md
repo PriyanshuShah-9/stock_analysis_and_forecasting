@@ -78,7 +78,3 @@ streamlit run main.py
 ## 📬 Feedback & Contributions
 
 Feel free to open an issue or submit a pull request to improve the app. Contributions are welcome!
-
----
-
-Let me know if you'd like to include demo screenshots, deployment instructions (e.g., for Streamlit Cloud), or license information.
