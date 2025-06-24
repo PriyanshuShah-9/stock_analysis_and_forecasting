@@ -1,6 +1,7 @@
 # 📈 Stock Analysis and Forecasting Web App
 
 A **Streamlit** web application for comprehensive stock market analysis and future price prediction. This tool allows users to visualize stock trends, analyze technical indicators, and forecast stock prices using advanced time series models.
+![image](https://github.com/user-attachments/assets/850f5fc3-8fd1-49a2-9ec0-0e114d1d7054)
 
 ---
 
